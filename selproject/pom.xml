@@ -3,6 +3,8 @@
   <groupId>selproject</groupId>
   <artifactId>selproject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  
   <dependencies>
  
          <!-- Selenium -->
@@ -19,7 +21,8 @@
             <version>7.10.2</version>
             <scope>test</scope>
         </dependency>
-    
+        
+       
 <dependency>
     <groupId>org.junit.jupiter</groupId>
     <artifactId>junit-jupiter-engine</artifactId>
@@ -33,7 +36,5 @@
     <version>1.10.0</version>
     <scope>test</scope>
 </dependency>
-        
-
   </dependencies>
 </project>
